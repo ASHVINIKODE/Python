@@ -12,3 +12,4 @@ if num == rev:
     print(f"{num} is a palindrome")
 else:
     print(f"{num} is not a palindrome")
+    #palindrome or not palindrome
