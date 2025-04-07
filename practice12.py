@@ -5,4 +5,4 @@ if num == num[::-1]:
 else:
     print(f"{num} is not a palindrome")
 
-    
+    #palindrome or not palindrome
