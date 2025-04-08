@@ -5,3 +5,4 @@ elif num<0:
     print(f"{num} is negative number")
 else:
     print(f"{num} is zero")
+    #positive and negative number
