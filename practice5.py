@@ -9,3 +9,4 @@ if num > 1:
         print(f"{num} is prime")  
 else:
     print(f"{num} is not prime")
+    #prime and not prime numbers
