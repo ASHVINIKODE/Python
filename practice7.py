@@ -4,3 +4,4 @@ if num1>num2:
     print(f"The maximum of {num1} and {num2} is {num1}")
 else:
     print(f"The maximum of {num1} and {num2} is {num2}")
+    #maximum of two numbers
