@@ -1,0 +1,10 @@
+d={
+    1:'Ashvini',
+    2:'Bhagat',
+     3:'JISCE',
+      4:'2025',
+      5:'36666'
+}
+print(d)
+val=d.pop(1)
+print(val)
